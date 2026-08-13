@@ -1,0 +1,175 @@
+{
+ "paper": "HL Sample 1",
+ "folder": "sec/hl-sample-1",
+ "case_study_img": "casestudy.png",
+ "entries": [
+  {
+   "img": "q1a",
+   "part": "Q1 (a)",
+   "lo": "2.1",
+   "chapter": "1.2",
+   "casestudy": true
+  },
+  {
+   "img": "q1b",
+   "part": "Q1 (b)",
+   "lo": "14.12",
+   "chapter": "3.2",
+   "casestudy": true
+  },
+  {
+   "img": "q1c",
+   "part": "Q1 (c)",
+   "lo": "13.2",
+   "chapter": "3.1",
+   "casestudy": true
+  },
+  {
+   "img": "q1d",
+   "part": "Q1 (d)",
+   "lo": "7.2",
+   "chapter": "2.2",
+   "casestudy": true
+  },
+  {
+   "img": "q1e-i",
+   "part": "Q1 (e)(i)",
+   "lo": "11.2",
+   "chapter": "2.6",
+   "casestudy": true
+  },
+  {
+   "img": "q1e-ii",
+   "part": "Q1 (e)(ii)",
+   "lo": "11.1",
+   "chapter": "2.6",
+   "casestudy": true
+  },
+  {
+   "img": "q2a-i",
+   "part": "Q2 (a)(i)",
+   "lo": "6.2",
+   "chapter": "2.1",
+   "stim": "q2stim"
+  },
+  {
+   "img": "q2a-ii",
+   "part": "Q2 (a)(ii)",
+   "lo": "1.1",
+   "chapter": "1.1",
+   "stim": "q2stim"
+  },
+  {
+   "img": "q2b",
+   "part": "Q2 (b)",
+   "lo": "8.7",
+   "chapter": "2.3",
+   "stim": "q2stim"
+  },
+  {
+   "img": "q2c",
+   "part": "Q2 (c)",
+   "lo": "5.4",
+   "chapter": "1.5",
+   "stim": "q2stim"
+  },
+  {
+   "img": "q2d",
+   "part": "Q2 (d)",
+   "lo": "3.1",
+   "chapter": "1.3",
+   "stim": "q2stim"
+  },
+  {
+   "img": "q3a",
+   "part": "Q3 (a)",
+   "lo": "2.5",
+   "chapter": "1.2"
+  },
+  {
+   "img": "q3b",
+   "part": "Q3 (b)",
+   "lo": "4.3",
+   "chapter": "1.4",
+   "note": "mixed fill-in: lobbying/privatisation/trade bloc/balance of trade/ECB - filed under first item"
+  },
+  {
+   "img": "q3c",
+   "part": "Q3 (c)",
+   "lo": "18.5",
+   "chapter": "4.2"
+  },
+  {
+   "img": "q3d",
+   "part": "Q3 (d)",
+   "lo": "17.3",
+   "chapter": "4.1"
+  },
+  {
+   "img": "q3e",
+   "part": "Q3 (e)",
+   "lo": "12.3",
+   "chapter": "2.7"
+  },
+  {
+   "img": "q4a-i",
+   "part": "Q4 (a)(i)",
+   "lo": "5.10",
+   "chapter": "1.5",
+   "stim": "q4stim"
+  },
+  {
+   "img": "q4a-ii",
+   "part": "Q4 (a)(ii)",
+   "lo": "9.8",
+   "chapter": "2.4",
+   "stim": "q4stim",
+   "note": "mixed T/F - filed under first item STEEPLE"
+  },
+  {
+   "img": "q4b",
+   "part": "Q4 (b)",
+   "lo": "5.11",
+   "chapter": "1.5",
+   "stim": "q4stim"
+  },
+  {
+   "img": "q4c",
+   "part": "Q4 (c)",
+   "lo": "14.3",
+   "chapter": "3.2",
+   "stim": "q4stim"
+  },
+  {
+   "img": "q4d",
+   "part": "Q4 (d)",
+   "lo": "14.14",
+   "chapter": "3.2",
+   "stim": "q4stim"
+  },
+  {
+   "img": "q5a",
+   "part": "Q5 (a)",
+   "lo": "19.4",
+   "chapter": "4.3"
+  },
+  {
+   "img": "q5b",
+   "part": "Q5 (b)",
+   "lo": "9.6",
+   "chapter": "2.4"
+  },
+  {
+   "img": "q5c",
+   "part": "Q5 (c)",
+   "lo": "4.6",
+   "chapter": "1.4"
+  },
+  {
+   "img": "q5d",
+   "part": "Q5 (d)",
+   "lo": "16.2",
+   "chapter": "3.4"
+  }
+ ]
+}

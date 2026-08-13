@@ -1,0 +1,249 @@
+{
+ "paper": "OL Sample 1",
+ "folder": "sec/ol-sample-1",
+ "case_study_img": "casestudy.png",
+ "notes": "q1a-ii mixed T/F filed under 5.1 (first item); q1c force-field -> 16.7; q5a-ii SMART -> 16.5",
+ "entries": [
+  {
+   "img": "q1a-i",
+   "part": "Q1 (a)(i)",
+   "lo": "2.2",
+   "chapter": "1.2",
+   "casestudy": true
+  },
+  {
+   "img": "q1a-ii",
+   "part": "Q1 (a)(ii)",
+   "lo": "5.1",
+   "chapter": "1.5",
+   "casestudy": true
+  },
+  {
+   "img": "q1b",
+   "part": "Q1 (b)",
+   "lo": "9.4",
+   "chapter": "2.4",
+   "casestudy": true
+  },
+  {
+   "img": "q1c",
+   "part": "Q1 (c)",
+   "lo": "16.7",
+   "chapter": "3.4",
+   "casestudy": true
+  },
+  {
+   "img": "q1d",
+   "part": "Q1 (d)",
+   "lo": "9.1",
+   "chapter": "2.4",
+   "casestudy": true
+  },
+  {
+   "img": "q1e",
+   "part": "Q1 (e)",
+   "lo": "19.4",
+   "chapter": "4.3",
+   "casestudy": true
+  },
+  {
+   "img": "q1f",
+   "part": "Q1 (f)",
+   "lo": "10.2",
+   "chapter": "2.5",
+   "casestudy": true
+  },
+  {
+   "img": "q1g",
+   "part": "Q1 (g)",
+   "lo": "15.3",
+   "chapter": "3.3",
+   "casestudy": true
+  },
+  {
+   "img": "q2a",
+   "part": "Q2 (a)",
+   "lo": "2.2",
+   "chapter": "1.2"
+  },
+  {
+   "img": "q2b",
+   "part": "Q2 (b)",
+   "lo": "13.4",
+   "chapter": "3.1"
+  },
+  {
+   "img": "q2c",
+   "part": "Q2 (c)",
+   "lo": "13.5",
+   "chapter": "3.1"
+  },
+  {
+   "img": "q2d",
+   "part": "Q2 (d)",
+   "lo": "8.7",
+   "chapter": "2.3"
+  },
+  {
+   "img": "q2e-i",
+   "part": "Q2 (e)(i)",
+   "lo": "18.7",
+   "chapter": "4.2",
+   "stim": "q2e-stim"
+  },
+  {
+   "img": "q2e-ii",
+   "part": "Q2 (e)(ii)",
+   "lo": "17.1",
+   "chapter": "4.1",
+   "stim": "q2e-stim"
+  },
+  {
+   "img": "q3a",
+   "part": "Q3 (a)",
+   "lo": "2.5",
+   "chapter": "1.2"
+  },
+  {
+   "img": "q3b",
+   "part": "Q3 (b)",
+   "lo": "14.12",
+   "chapter": "3.2"
+  },
+  {
+   "img": "q3c",
+   "part": "Q3 (c)",
+   "lo": "14.15",
+   "chapter": "3.2"
+  },
+  {
+   "img": "q3d",
+   "part": "Q3 (d)",
+   "lo": "19.2",
+   "chapter": "4.3"
+  },
+  {
+   "img": "q3e",
+   "part": "Q3 (e)",
+   "lo": "14.4",
+   "chapter": "3.2"
+  },
+  {
+   "img": "q3f-i",
+   "part": "Q3 (f)(i)",
+   "lo": "4.4",
+   "chapter": "1.4",
+   "stim": "q3f-stim"
+  },
+  {
+   "img": "q3f-ii",
+   "part": "Q3 (f)(ii)",
+   "lo": "4.5",
+   "chapter": "1.4",
+   "stim": "q3f-stim"
+  },
+  {
+   "img": "q3g",
+   "part": "Q3 (g)",
+   "lo": "5.3",
+   "chapter": "1.5"
+  },
+  {
+   "img": "q4a",
+   "part": "Q4 (a)",
+   "lo": "18.1",
+   "chapter": "4.2"
+  },
+  {
+   "img": "q4b",
+   "part": "Q4 (b)",
+   "lo": "18.1",
+   "chapter": "4.2"
+  },
+  {
+   "img": "q4c",
+   "part": "Q4 (c)",
+   "lo": "18.4",
+   "chapter": "4.2"
+  },
+  {
+   "img": "q4d",
+   "part": "Q4 (d)",
+   "lo": "17.2",
+   "chapter": "4.1"
+  },
+  {
+   "img": "q4e",
+   "part": "Q4 (e)",
+   "lo": "9.2",
+   "chapter": "2.4"
+  },
+  {
+   "img": "q4f-i",
+   "part": "Q4 (f)(i)",
+   "lo": "4.2",
+   "chapter": "1.4",
+   "stim": "q4f-stim"
+  },
+  {
+   "img": "q4f-ii",
+   "part": "Q4 (f)(ii)",
+   "lo": "4.1",
+   "chapter": "1.4",
+   "stim": "q4f-stim"
+  },
+  {
+   "img": "q5a-i",
+   "part": "Q5 (a)(i)",
+   "lo": "10.2",
+   "chapter": "2.5",
+   "stim": "q5stim"
+  },
+  {
+   "img": "q5a-ii",
+   "part": "Q5 (a)(ii)",
+   "lo": "16.5",
+   "chapter": "3.4",
+   "stim": "q5stim"
+  },
+  {
+   "img": "q5b",
+   "part": "Q5 (b)",
+   "lo": "7.3",
+   "chapter": "2.2",
+   "stim": "q5stim"
+  },
+  {
+   "img": "q5c",
+   "part": "Q5 (c)",
+   "lo": "6.3",
+   "chapter": "2.1",
+   "stim": "q5stim"
+  },
+  {
+   "img": "q5d",
+   "part": "Q5 (d)",
+   "lo": "3.1",
+   "chapter": "1.3",
+   "stim": "q5stim"
+  },
+  {
+   "img": "q5e",
+   "part": "Q5 (e)",
+   "lo": "12.1",
+   "chapter": "2.7"
+  },
+  {
+   "img": "q5f",
+   "part": "Q5 (f)",
+   "lo": "17.4",
+   "chapter": "4.1"
+  },
+  {
+   "img": "q5g",
+   "part": "Q5 (g)",
+   "lo": "2.1",
+   "chapter": "1.2"
+  }
+ ]
+}

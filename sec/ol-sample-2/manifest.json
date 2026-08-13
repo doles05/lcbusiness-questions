@@ -1,0 +1,207 @@
+{
+ "paper": "OL Sample 2",
+ "folder": "sec/ol-sample-2",
+ "case_study_img": "casestudy.png",
+ "notes": "q5d research-skills question filed under 19.2 (first-item rule); q2g both parts and q3a-i under 9.3 per notes LI",
+ "entries": [
+  {
+   "img": "q1a",
+   "part": "Q1 (a)",
+   "lo": "1.1",
+   "chapter": "1.1",
+   "casestudy": true
+  },
+  {
+   "img": "q1b",
+   "part": "Q1 (b)",
+   "lo": "6.2",
+   "chapter": "2.1",
+   "casestudy": true
+  },
+  {
+   "img": "q1c",
+   "part": "Q1 (c)",
+   "lo": "8.1",
+   "chapter": "2.3",
+   "casestudy": true
+  },
+  {
+   "img": "q1d",
+   "part": "Q1 (d)",
+   "lo": "14.8",
+   "chapter": "3.2",
+   "casestudy": true
+  },
+  {
+   "img": "q1e",
+   "part": "Q1 (e)",
+   "lo": "14.15",
+   "chapter": "3.2",
+   "casestudy": true
+  },
+  {
+   "img": "q1f",
+   "part": "Q1 (f)",
+   "lo": "12.3",
+   "chapter": "2.7",
+   "casestudy": true
+  },
+  {
+   "img": "q1g",
+   "part": "Q1 (g)",
+   "lo": "17.2",
+   "chapter": "4.1",
+   "casestudy": true
+  },
+  {
+   "img": "q2a",
+   "part": "Q2 (a)",
+   "lo": "17.2",
+   "chapter": "4.1"
+  },
+  {
+   "img": "q2b",
+   "part": "Q2 (b)",
+   "lo": "18.4",
+   "chapter": "4.2"
+  },
+  {
+   "img": "q2c",
+   "part": "Q2 (c)",
+   "lo": "3.1",
+   "chapter": "1.3"
+  },
+  {
+   "img": "q2d",
+   "part": "Q2 (d)",
+   "lo": "11.2",
+   "chapter": "2.6"
+  },
+  {
+   "img": "q2e",
+   "part": "Q2 (e)",
+   "lo": "16.7",
+   "chapter": "3.4"
+  },
+  {
+   "img": "q2f",
+   "part": "Q2 (f)",
+   "lo": "19.2",
+   "chapter": "4.3"
+  },
+  {
+   "img": "q2g-i",
+   "part": "Q2 (g)(i)",
+   "lo": "9.3",
+   "chapter": "2.4"
+  },
+  {
+   "img": "q2g-ii",
+   "part": "Q2 (g)(ii)",
+   "lo": "9.3",
+   "chapter": "2.4"
+  },
+  {
+   "img": "q3a-i",
+   "part": "Q3 (a)(i)",
+   "lo": "9.3",
+   "chapter": "2.4"
+  },
+  {
+   "img": "q3a-ii",
+   "part": "Q3 (a)(ii)",
+   "lo": "9.8",
+   "chapter": "2.4"
+  },
+  {
+   "img": "q3b",
+   "part": "Q3 (b)",
+   "lo": "6.3",
+   "chapter": "2.1"
+  },
+  {
+   "img": "q3c",
+   "part": "Q3 (c)",
+   "lo": "19.3",
+   "chapter": "4.3"
+  },
+  {
+   "img": "q3d",
+   "part": "Q3 (d)",
+   "lo": "8.2",
+   "chapter": "2.3"
+  },
+  {
+   "img": "q3e",
+   "part": "Q3 (e)",
+   "lo": "5.3",
+   "chapter": "1.5"
+  },
+  {
+   "img": "q4a",
+   "part": "Q4 (a)",
+   "lo": "10.3",
+   "chapter": "2.5"
+  },
+  {
+   "img": "q4b",
+   "part": "Q4 (b)",
+   "lo": "19.5",
+   "chapter": "4.3"
+  },
+  {
+   "img": "q4c",
+   "part": "Q4 (c)",
+   "lo": "2.2",
+   "chapter": "1.2"
+  },
+  {
+   "img": "q4d",
+   "part": "Q4 (d)",
+   "lo": "14.9",
+   "chapter": "3.2"
+  },
+  {
+   "img": "q4e",
+   "part": "Q4 (e)",
+   "lo": "16.8",
+   "chapter": "3.4"
+  },
+  {
+   "img": "q4f",
+   "part": "Q4 (f)",
+   "lo": "16.9",
+   "chapter": "3.4"
+  },
+  {
+   "img": "q5a",
+   "part": "Q5 (a)",
+   "lo": "6.1",
+   "chapter": "2.1"
+  },
+  {
+   "img": "q5b",
+   "part": "Q5 (b)",
+   "lo": "17.1",
+   "chapter": "4.1"
+  },
+  {
+   "img": "q5c",
+   "part": "Q5 (c)",
+   "lo": "15.2",
+   "chapter": "3.3"
+  },
+  {
+   "img": "q5d",
+   "part": "Q5 (d)",
+   "lo": "19.2",
+   "chapter": "4.3"
+  },
+  {
+   "img": "q5e",
+   "part": "Q5 (e)",
+   "lo": "14.5",
+   "chapter": "3.2"
+  }
+ ]
+}
