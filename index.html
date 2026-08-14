@@ -38,8 +38,14 @@ header{position:sticky;top:0;z-index:20;background:var(--navy);color:#fff;
 .snav.st:first-child{margin-top:0}
 .snav.ch{padding-left:20px;color:#3D4A5C}
 .snav.on{background:#E7EDF5;color:var(--navy);font-weight:700}
-@media(max-width:840px){.layout{display:block;padding:12px}.side{position:static;width:auto;max-height:none;margin-bottom:14px}
-  .side .pill{display:inline-block;width:auto}.snav{display:inline-block;width:auto}.snav.ch{padding-left:10px}}
+.mobilebar{display:none}
+@media(max-width:840px){
+  .layout{display:block;padding:12px}
+  .side{display:none}
+  .mobilebar{display:flex;align-items:center;gap:8px;position:sticky;top:0;z-index:40;
+    background:var(--bg);padding:8px 0 10px;margin-bottom:4px}
+  .mobilebar .pill{flex:1;text-align:center;margin:0}
+}
 .filters{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px;margin-bottom:16px}
 .frow{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:10px}
 .frow:last-child{margin-bottom:0}
@@ -196,6 +202,10 @@ footer{max-width:760px;margin:20px auto 40px;padding:0 16px;font-size:.72rem;col
     <div class="sgroup"><div class="slabel">Strands &amp; chapters</div><nav id="sideNav"></nav></div>
   </aside>
   <main class="main">
+    <div class="mobilebar">
+      <button class="pill lv on" data-lv="ALL">All</button>
+      <button class="pill lv" data-lv="HL">Higher</button>
+      <button class="pill lv" data-lv="OL">Ordinary</button></div>
     <div class="filters">
       <div class="frow"><span class="flabel">Chapter &amp; Learning Outcome</span>
         <select id="chapSel"></select><select id="loSel"></select></div>
